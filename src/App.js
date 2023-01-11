@@ -56,7 +56,6 @@ class App extends Component {
                 </ul> */}
               </div>
             </div>
-
           </div>
         </div>
       </div>
